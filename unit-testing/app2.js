@@ -1,0 +1,1 @@
+const helloName = namePerson => `Hola ${namePerson}`;
